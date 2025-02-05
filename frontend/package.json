@@ -1,7 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "ai-code-editor-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Frontend for AI Code Editor",
+  "author": "Samvel Siby",
   "type": "module",
   "scripts": {
     "dev": "vite",

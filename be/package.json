@@ -1,14 +1,14 @@
 {
-  "name": "be",
+  "name": "ai-code-editor-backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Backend for AI Code Editor",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsc -b && node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Samvel Siby",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
     "@types/cors": "^2.8.17",
